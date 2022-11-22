@@ -4,6 +4,7 @@
 </template>-->
 
 <template>
+  <img alt="Vue logo" src="./assets/logo.png" /><br>
   <a href="#/login">Login</a> |
   <a href="#/">Home</a> |
   <a href="#/about">About</a> |
