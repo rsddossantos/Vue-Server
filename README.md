@@ -1,24 +1,15 @@
-# vue_server
+# Vue Server
+#### Instância Vue Server com sistema de login com consumo de API nodeJs
+<hr>
 
-## Project setup
+### Instalação
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Execução
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### API
+[Node-Api-Login](https://github.com/rsddossantos/Node-API-Login).
